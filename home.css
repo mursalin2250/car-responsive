@@ -16,7 +16,7 @@
         width: 100%;
         position: fixed;
         z-index: 4;
-        background-color: #ffffff44;
+        background-color: white;
         display: flex;
         flex-direction: column;
         align-items: center;
@@ -46,7 +46,7 @@
         text-transform: uppercase;
         text-decoration: none;
         transition: color .5s;
-        color: white;
+        color: black;
     }
     nav ul li a:hover{
         color: orangered;
@@ -57,7 +57,7 @@
         background:none;
         border: none;
         transition: color .5s;
-        color: white;
+        color: black;
         
     }
     .tc{
@@ -65,7 +65,7 @@
     }
     .nav-bg {
         background-color: white;
-        color: white;
+        color: black;
     }
     .menu{
         display: flex;
@@ -76,13 +76,12 @@
         color: orangered;
     }
     
-    .content,.content-2{
+    .content{
         display: none;
         flex-direction: column;
         gap: 20px;
         margin-top: 15px;
     }
-    
     .show{
         display: flex;
         
@@ -97,7 +96,7 @@
     .logo{
         font-weight: 800;
         font-size: xx-large;
-        color: white;
+        color: black;
         text-decoration: none;
     }
     .logo-2{
@@ -182,6 +181,7 @@
         justify-content: center;
         text-align: center;
         
+        
     }
     .fa-user{
         font-size: 45px;
@@ -225,7 +225,7 @@
         width: 100%;
         position: fixed;
         z-index: 4;
-        background-color: #ffffff44;
+        background-color: white;
         display: flex;
         flex-direction: column;
         align-items: center;
@@ -254,7 +254,7 @@
         text-transform: uppercase;
         text-decoration: none;
         transition: color .5s;
-        color: white;
+        color: black;
     }
     nav ul li a:hover{
         color: orangered;
@@ -265,7 +265,7 @@
         background:none;
         border: none;
         transition: color .5s;
-        color: white;
+        color: black;
     }
     .tc{
         color: rgb(255, 98, 41);
@@ -303,7 +303,7 @@
     .logo{
         font-weight: 800;
         font-size: xx-large;
-        color: white;
+        color: black;
         text-decoration: none;
     }
     .logo-2{
@@ -432,7 +432,7 @@
         width: 100%;
         position: fixed;
         z-index: 4;
-        background-color: #ffffff44;
+        background-color: white;
         display: flex;
         align-items: center;
         justify-content: center;
@@ -452,7 +452,7 @@
         text-transform: uppercase;
         text-decoration: none;
         transition: color .5s;
-        color: white;
+        color: black;
     }
     nav ul li a:hover{
         color: orangered;
@@ -463,7 +463,7 @@
         background:none;
         border: none;
         transition: color .5s;
-        color: white;
+        color: black;
     }
     .tc{
         color: rgb(255, 98, 41);
@@ -521,7 +521,7 @@
     .logo{
         font-weight: 800;
         font-size: xx-large;
-        color: white;
+        color: black;
         text-decoration: none;
     }
     .logo-2{
@@ -647,7 +647,7 @@
         width: 100%;
         position: fixed;
         z-index: 4;
-        background-color: #ffffff44;
+        background-color: white;
         display: flex;
         align-items: center;
         justify-content: center;
@@ -667,7 +667,7 @@
         text-transform: uppercase;
         text-decoration: none;
         transition: color .5s;
-        color: white;
+        color: black;
     }
     nav ul li a:hover{
         color: orangered;
@@ -679,7 +679,7 @@
         background:none;
         border: none;
         transition: color .5s;
-        color: white;
+        color: black;
     }
     .tc{
         color: rgb(255, 98, 41);
@@ -738,7 +738,7 @@
     .logo{
         font-weight: 800;
         font-size: xx-large;
-        color: white;
+        color: black;
         text-decoration: none;
     }
     .logo-2{
@@ -864,7 +864,7 @@
         width: 100%;
         position: fixed;
         z-index: 4;
-        background-color: #ffffff44;
+        background-color: white;
         display: flex;
         align-items: center;
         justify-content: center;
@@ -884,7 +884,7 @@
         text-transform: uppercase;
         text-decoration: none;
         transition: color .5s;
-        color: white;
+        color: black;
     }
     nav ul li a:hover{
         color: orangered;
@@ -896,7 +896,7 @@
         background:none;
         border: none;
         transition: color .5s;
-        color: white;
+        color: black;
     }
     .tc{
         color: rgb(255, 98, 41);
@@ -955,7 +955,7 @@
     .logo{
         font-weight: 800;
         font-size: xx-large;
-        color: white;
+        color: black;
         text-decoration: none;
     }
     .logo-2{
